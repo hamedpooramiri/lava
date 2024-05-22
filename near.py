@@ -5,7 +5,7 @@ import time
 
 # NEAR Mainnet RPC endpoint
 # TODO: input your NEAR Mainnet RPC here.
-near_rpc_endpoint = 'https://near.lava.build/lava-referer-bbfb8dbe-46d5-41ce-a634-d7ea02fed7bf/'
+near_rpc_endpoint = 'https://near.lava.build/lava-referer-e29fe71d-5af8-47b3-a2f1-08d2e78dbc4d/'
 
 # NEAR account ID to check balance in Hexadecimal format.
 # YOUr WALLET NEEDS SOME NEAR, OTHERWISE IT'LL RETURN ERROR!!!!!
